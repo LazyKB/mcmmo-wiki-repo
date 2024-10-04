@@ -2,7 +2,7 @@
 title: Swords
 description: View information about the Swords skill for mcMMO!
 published: true
-date: 2022-07-17T14:29:42.727Z
+date: 2024-10-03 02:54
 tags: skills, swords
 editor: markdown
 dateCreated: 2022-07-17T14:29:42.727Z
@@ -27,3 +27,7 @@ Counter Attack is an active ability. When blocking and taking hits from mobs, yo
 ## How does Rupture work?
 
 Rupture causes enemies to take damage every two seconds. The  target will bleed until the effect wears off, or death,  whichever comes first. The duration of the bleed is increased by your sword skill.
+
+## How does Stab work?
+
+Stab increases the damage all of your swords do per swing, up to 4.0 extra damage at max level.
