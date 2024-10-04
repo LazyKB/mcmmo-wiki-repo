@@ -1,0 +1,25 @@
+---
+title: Salvage
+description: View information about the Salvage skill for mcMMO!
+published: true
+date: 2022-08-08T16:22:50.747Z
+tags: salvage, skills, child skill
+editor: markdown
+dateCreated: 2024-10-03T20:35:16.605Z
+---
+
+# Salvage
+
+Salvage is a child [skill](/skills) which involves breaking down equipment into its base materials. 
+
+## XP Gain
+
+Salvage inherits levels from [fishing](/fishing) and [mining](/mining)
+
+## Scrap collector
+
+Scrap collector determines the maximum number of materials which can be extracted from salvaged equipment. Extracted items are also based on the durability of the equipment.
+
+## Arcane Salvaging
+
+Arcane Salvaging allows extracting enchantments off of salvaged equipment into enchanted books. The book can be the full enchantment or a weaker version. A higher level of salvage improves the odds of both outcomes
